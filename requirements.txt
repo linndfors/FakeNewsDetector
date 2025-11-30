@@ -1,0 +1,9 @@
+streamlit
+polars
+torch
+transformers
+scikit-learn
+pandas
+numpy=1.26.4
+regex
+transformers-interpret
